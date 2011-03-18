@@ -5,6 +5,13 @@ class PagesController < ApplicationController
 
   def contact
     @title = "Contact"
+<<<<<<< HEAD
+  end
+
+  def help
+    @title = "Contact"
+=======
+>>>>>>> modeling-users
   end
 
   def about
